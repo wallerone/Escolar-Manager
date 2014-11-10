@@ -1,4 +1,6 @@
 Escolar-Manager
 ===============
 
-Sistema de gerencia de informação de instituição educacionais.
+Sistema de gerência de informação de instituição educacionais.
+
+Está sendo desenvolvido por Ademar, Alexandre Costa, Laerte Marçal e Wallace Luis.
